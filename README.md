@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **upgrading my DSA Skills**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="sk592847@gmail.com"></h3>
 <p align="left">
 </p>
 
